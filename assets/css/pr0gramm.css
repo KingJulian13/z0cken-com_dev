@@ -1,0 +1,62 @@
+.background-gray {
+  background-color: #161618;
+}
+
+.background-orange {
+  background-color: #ee4d2e !important;
+}
+
+.background-discord {
+  background-color: #7289da !important;
+}
+
+.background-gebannt {
+  background-color: #444444 !important;
+}
+
+.text-orange {
+  color: #ee4d2e;
+}
+
+.text-primary {
+  color: #f2f5f4;
+}
+
+.text-primary li a {
+  color: #f2f5f4;
+}
+
+.text-secondary {
+  color: #888888;
+}
+
+.text-secondary li a {
+  color: #888888;
+}
+
+a {
+  color: #75c0c7;
+}
+
+.sidenav-overlay {
+  background-color: rgba(250, 251, 252, 0.1) !important;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+
+main {
+  flex: 1 0 auto;
+}
+
+
