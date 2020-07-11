@@ -1,4 +1,4 @@
-var botDomain = "http://localhost:8080";
+var botDomain = "http://95.90.198.120:8080/";
 var proClientID = 456;
 
 var discordLink =
