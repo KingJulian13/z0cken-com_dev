@@ -1,4 +1,4 @@
-var botDomain = "https://95.90.198.120:8080/";
+var botDomain = "https://62.216.207.143:8080/";
 var proClientID = 456;
 
 var discordLink =
